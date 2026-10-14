@@ -7,6 +7,7 @@ Inspired by the awesome-list community.
 ## Online Utility Tools
 
 - [AIOneTools](https://aionetools.com) – Collection of free online tools for text processing, calculators, converters, and simple generators.
+- [17NAS RAID Calculator](https://17nas.com/raid-calculator.php) – Free RAID capacity calculator for RAID 0/1/5/6/10, RAID-Z1/Z2/Z3, and Synology SHR with mixed-drive support, no signup.
 - [TinyWow](https://tinywow.com) – Free PDF, image, writing, and file tools.
 - [Designs.ai](https://designs.ai) – AI-powered tools for logos, videos, banners, and content creation.
 - [Remove.bg](https://www.remove.bg) – Automatically remove image backgrounds.
